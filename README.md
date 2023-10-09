@@ -42,7 +42,7 @@ The provided code performs binary classification using a neural network with the
 - Training and testing loss, accuracy, and F1-score are monitored.
 - The training results are visualized using Matplotlib.
 
-
+![Game Screenshot](https://i.postimg.cc/44vGGcHn/6-4.png)
 
 The screenshot shows a visualization of training and testing loss, accuracy, and confusion matrices for the binary classification task.
 
